@@ -9,6 +9,10 @@ This is a simple chat application built using Node.js, Express, and Socket.IO. I
 - **Typing Indicator**: Shows when a user is typing.
 - **Online Users List**: Displays a list of currently connected users.
 
+<br/>
+
+![screenshot](/screenshot.png)
+
 ## Installation
 
 1. **Clone the repository**
