@@ -1,5 +1,4 @@
 # Chat-app
-A basic chat app I built while learning socket.io <br/>
 This is a simple chat application built using Node.js, Express, and Socket.IO. It allows multiple users to chat in real-time with features like user nicknames, typing notifications, and displaying the list of online users.
 
 ## Features
