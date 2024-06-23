@@ -13,8 +13,8 @@ This is a simple chat application built using Node.js, Express, and Socket.IO. I
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/simple-chat-app.git
-    cd simple-chat-app
+    git clone https://github.com/ashish0kumar/Chat-app.git
+    cd Chat-app
     ```
 
 2. **Install dependencies**
