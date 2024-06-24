@@ -11,6 +11,8 @@ This is a simple chat application built using Node.js, Express, and Socket.IO. I
 
 <br/>
 
+## Screenshot
+
 ![screenshot](/screenshot.png)
 
 ## Installation
