@@ -13,7 +13,8 @@ form.addEventListener("submit", (e) => {
     e.preventDefault();
     if (input.value) {
         const item = document.createElement("li");
-        item.innerHTML = `${nickname}: ${input.value}`;
+        item.innerHTML = `You: ${input.value}`;
+        item.classList.add("my-message");
         messages.appendChild(item);
         window.scrollTo(0, document.body.scrollHeight);
         socket.emit("chat message", input.value);
@@ -33,6 +34,7 @@ input.addEventListener("input", () => {
 socket.on("chat message", (data) => {
     const item = document.createElement("li");
     item.textContent = `${data.user}: ${data.msg}`;
+    item.classList.add("other-message");
     messages.appendChild(item);
     window.scrollTo(0, document.body.scrollHeight);
 });
