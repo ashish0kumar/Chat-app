@@ -1,5 +1,5 @@
 # Chat-app
-This is a simple chat application built using Node.js, Express, and Socket.IO. It allows multiple users to chat in real-time with features like user nicknames, typing notifications, and displaying the list of online users.
+This is a simple chat application with a Whatsapp-like UI built using Node.js, Express, and Socket.IO. It allows multiple users to chat in real-time with features like user nicknames, typing notifications, and displaying the list of online users.
 
 ## Features
 
