@@ -1,7 +1,7 @@
 # Chat-app
 This is a simple chat application with a Whatsapp-like UI built using Node.js, Express, and Socket.IO. It allows multiple users to chat in real-time with features like user nicknames, typing notifications, and displaying the list of online users.
 
-## Features
+## ✨ Features
 
 - **Real-time Messaging**: Chat with multiple users in real-time.
 - **Nicknames**: Users can set their own nicknames.
@@ -9,11 +9,11 @@ This is a simple chat application with a Whatsapp-like UI built using Node.js, E
 - **Typing Indicator**: Shows when a user is typing.
 - **Online Users List**: Displays a list of currently connected users.
 
-## Screenshot
+## 📷 Screenshot
 
 ![screenshot](/screenshot.png)
 
-## Installation
+## 🚀 Installation
 
 1. **Clone the repository**
     ```bash
